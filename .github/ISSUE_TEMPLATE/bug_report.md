@@ -1,38 +1,31 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: 🐞 Hata Bildirimi
+about: Uygulamada karşılaştığınız bir hatayı bildirin
+title: "[Hata] "
+labels: bug
+assignees: isa-ozturk
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+> ⚠️ **Bu depo herkese açıktır.** Lütfen lisans anahtarı, müşteri kodu, makine ID veya cihaz seri numarası paylaşmayın.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Hatanın tanımı**
+Karşılaştığınız sorunu kısaca açıklayın.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Hatayı oluşturma adımları**
+1. '...' alanına '...' girildi
+2. '...' butonuna tıklandı
+3. '...' hatası görüldü
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Beklenen davranış**
+Ne olmasını bekliyordunuz?
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Ekran görüntüsü**
+Varsa, hata mesajının ekran görüntüsünü ekleyin (hassas bilgileri karartarak).
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Ortam bilgisi**
+ - Uygulama sürümü: [ör. v2.0.0 — sol alt köşede yazar]
+ - Windows sürümü: [ör. Windows 11 23H2]
 
-**Additional context**
-Add any other context about the problem here.
+**Ek bilgi**
+Sorunla ilgili eklemek istediğiniz diğer bilgiler.

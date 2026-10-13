@@ -1,20 +1,20 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+name: ✨ Özellik Talebi
+about: Uygulama için yeni bir özellik veya iyileştirme önerin
+title: "[Öneri] "
+labels: enhancement
+assignees: isa-ozturk
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Öneriniz bir sorunla mı ilgili?**
+Yaşadığınız sorunu kısaca açıklayın. Ör. "Her seferinde ... yapmak zorunda kalıyorum."
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Önerdiğiniz çözüm**
+Nasıl bir özellik veya değişiklik istediğinizi açıklayın.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Değerlendirdiğiniz alternatifler**
+Varsa, düşündüğünüz diğer çözümler.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Ek bilgi**
+Öneriyle ilgili ekran görüntüsü veya diğer bilgiler.
